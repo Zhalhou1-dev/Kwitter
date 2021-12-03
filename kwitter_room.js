@@ -3,5 +3,6 @@ function log(){
 }
 user=localStorage.getItem("user_name");
 function addRoom(){
-    document.getElementById(
+    document.getElementById("add").value;
+    localStorage.
 }
