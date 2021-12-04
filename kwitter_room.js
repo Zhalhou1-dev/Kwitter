@@ -5,4 +5,5 @@ user=localStorage.getItem("user_name");
 function addRoom(){
     document.getElementById("add").value;
     localStorage.setItem("store");
+    window.location("kwitter_page.html");
 }
