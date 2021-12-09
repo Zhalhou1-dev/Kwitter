@@ -1,5 +1,5 @@
 user_name=localStorage.getItem("store");
-room_name=localStorage.getItem("");
+room_name=localStorage.getItem("room");
 const firebaseConfig = {
     apiKey: "AIzaSyCvINzWyBJHtAMK3u3sQr3nU6x19RwxJA4",
     authDomain: "let-s-chat-e00c2.firebaseapp.com",
