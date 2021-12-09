@@ -12,3 +12,9 @@ const firebaseConfig = {
   
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
+function send(){
+    input_value=document.getElementById("send");
+    input_="";
+    
+    document.getElementById("send").innerHTML=input;
+}
